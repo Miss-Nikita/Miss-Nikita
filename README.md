@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm dedicated to creating innovative and responsiv
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Design**: Figma
-- **Languages**: Python
+- **Languages**: JavaScript, TypeScript, Python
 
 ### 🌟 **Connect with Me**
 
