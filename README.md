@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm dedicated to creating innovative and responsiv
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 ### 📈 **Technologies I'm Excited About**
