@@ -6,16 +6,17 @@ Welcome to my GitHub profile! I'm dedicated to creating innovative and responsiv
 
 ### 🚀 **Skills & Technologies**
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, TypeScript
+- **Frontend**: HTML, CSS, Tailwind , JavaScript, React.js, Next.js
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Design**: Figma
+- **Design**: Figma , Canva
 - **Languages**: JavaScript, TypeScript, Python
 
 ### 🌟 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/nikita-bisen24/) 
-- [Email](nikitabisen770@gmail.com) 
+- [Email](nikitabisen770@gmail.com)
+- [Portfolio](https://nikita-portfolio.onrender.com/) 
 
 
 ###
